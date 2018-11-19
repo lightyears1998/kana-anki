@@ -1,7 +1,13 @@
-# KanaAnki
+# KanaAnki 日语假名记忆工具
 
-App Inventor选修课课程设计
+KanaAnki是使用MIT App Inventor制作的一款日语假名记忆工具，是我在2018年秋季参加的广州大学App Inventor选修课的课程设计作品。
 
-正在尝试做的一个日语假名记忆工具。
+KanaAnki旨在帮助正在学习日语五十音的同学利用碎片时间进行记忆和复习。应用的主要模块是“识字辨音”和“听音认字”，即屏幕上方随机出现日语的假名或者罗马音，用户在屏幕下方出现的四个选项中选择正确的选项，以此加深对五十音的记忆。应用还附带了一个易于查询的五十音图。
 
-原始音频来自<https://github.com/yiyizym/gojuon>
+![屏幕截图](/docs/screenshots.png)
+
+具体内容请参考[创意文档](/docs/创意文档.md)。
+
+## 素材来源
+
+五十音原始音频采自<https://github.com/yiyizym/gojuon>，在此谢过。
